@@ -21,9 +21,9 @@ The dataset used in this research is a private dataset which has been collected 
 * IDE: Colab
 
 ## Team Member:
+* 190204082 Rafid Reezwan Fahim
 * 190204040 Sumaiya Siddiqua Mumu
 * 190204048 Syeda Samia Sultana
-* 190204082 Rafid Reezwan Fahim
 * 190204025 Noshin Nawar Neha
 
 ## Supervisor: 
